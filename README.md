@@ -1,1 +1,3 @@
 # clotesshop
+# GIF
+![](ekran.gif)
